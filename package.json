@@ -1,15 +1,14 @@
 {
   "name": "commonmark-spec",
-  "version": "0.30.0",
+  "version": "0.31.2",
   "description": "CommonMark spec and test cases",
-  "homepage": "http://commonmark.org",
+  "homepage": "https://commonmark.org",
   "license": "CC-BY-SA-4.0",
   "keywords": [
     "commonmark",
     "markdown"
   ],
   "repository": "commonmark/CommonMark",
-  "license": "MIT",
   "files": [
     "index.js",
     "spec.txt"
